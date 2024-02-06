@@ -9,7 +9,7 @@ y, m, d = map(int, input().split())
 # 2월: 윤년 따짐
 # 3월: 31
 # 4월: 30
-# 홀수월: 31
+# 홀수월,8월: 31
 # 짝수월: 2월 확인
 
 def get_season(m):
@@ -24,7 +24,7 @@ def get_season(m):
 
 def func(y, m, d):
     season = -1
-    if y % 2 == 1:
+    if m % 2 == 1 or m == 8:
         if d <= 31:
             season = get_season(m)
         # else:
