@@ -1,9 +1,5 @@
-n = 29
+n = int(input())
 digits = []
-
-if n == 0:
-    print(0)
-    exit
 
 while True:
     if n < 2:
