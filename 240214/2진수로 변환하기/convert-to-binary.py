@@ -1,6 +1,10 @@
 n = 29
 digits = []
 
+if n == 0:
+    print(0)
+    exit
+
 while True:
     if n < 2:
         digits.append(n)
