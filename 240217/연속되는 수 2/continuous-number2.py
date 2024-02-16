@@ -9,8 +9,8 @@ for i in range(n):
     if i==0 or res[i] == res[i-1]:
         cnt += 1
 
-    elif res[i] != res[i-1]:
+    elif:
         cnts.append(cnt)
         cnt = 0
 
-print(cnts)
+print(max(cnts))
