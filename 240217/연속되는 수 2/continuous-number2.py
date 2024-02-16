@@ -13,4 +13,4 @@ for i in range(n):
         cnts.append(cnt)
         cnt = 0
 
-print(max(cnts))
+print(cnts)
