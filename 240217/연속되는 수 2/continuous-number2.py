@@ -12,5 +12,5 @@ for i in range(n):
     else:
         cnts.append(cnt)
         cnt = 0
-print(cnts)
+
 print(max(cnts))
