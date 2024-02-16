@@ -9,8 +9,7 @@ for i in range(n):
     if i==0 or res[i] == res[i-1]:
         cnt += 1
 
-    else:
-        cnts.append(cnt)
-        cnt = 1
+    cnts.append(cnt)
+    cnt = 1
 
 print(max(cnts))
