@@ -4,7 +4,7 @@ a = list(map(int, input().split()))
 
 res, cnt = 0, 0
 for i in range(n):
-    if i >= 1 and a[i] > t:
+    if a[i] > t:
         cnt += 1
     else:
         cnt = 0
