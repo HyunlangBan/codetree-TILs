@@ -8,6 +8,6 @@ for _ in range(n):
     x2 += 100
     y2 += 100
 
-    res += abs((x2-x1)*(y2-y1))
+    res += abs((x2-x1)*(y2-y1)+'a')
 
 print(res)
