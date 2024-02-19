@@ -12,7 +12,7 @@
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
-|[Novice Mid / 시뮬레이션 I / Notation](https://www.codetree.ai/missions?missionId=5)|[[테스트]진수 to 진수](https://www.codetree.ai/missions/5/problems/transformation-of-number-system)|![쉬움][easy]|![Failed][failed]|[링크](https://github.com/HyunlangBan/codetree-TILs/blob/main/240214/%EC%A7%84%EC%88%98%20to%20%EC%A7%84%EC%88%98/transformation-of-number-system.py)|
+|[Novice Mid / 시뮬레이션 I / Notation](https://www.codetree.ai/missions?missionId=5)|[[테스트]진수 to 진수](https://www.codetree.ai/missions/5/problems/transformation-of-number-system)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/HyunlangBan/codetree-TILs/blob/main/240214/%EC%A7%84%EC%88%98%20to%20%EC%A7%84%EC%88%98/transformation-of-number-system.py)|
 |[Novice Mid / 시뮬레이션 I / Notation](https://www.codetree.ai/missions?missionId=5)|[[개념]2진수로 변환하기](https://www.codetree.ai/missions/5/problems/convert-to-binary)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/HyunlangBan/codetree-TILs/blob/main/240214/2%EC%A7%84%EC%88%98%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0/convert-to-binary.py)|
 |[Novice Mid / 시뮬레이션 I / Notation](https://www.codetree.ai/missions?missionId=5)|[[개념]10진수로 변환하기](https://www.codetree.ai/missions/5/problems/convert-to-decimal)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/HyunlangBan/codetree-TILs/blob/main/240214/10%EC%A7%84%EC%88%98%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0/convert-to-decimal.py)|
 
